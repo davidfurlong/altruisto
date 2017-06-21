@@ -6,6 +6,6 @@ It's a browser extension that allows users to raise money for charities through 
 
 <h1>Install</h1>
 
-<a href="https://chrome.google.com/webstore/detail/altruistocom-chrome-exten/jneoemaenmeibociafkflgjkjaopbggc"><img src="https://altruisto.com/img/chrome_128x128.png" alt="Chrome logo"></a>
+<a href="https://chrome.google.com/webstore/detail/altruistocom-chrome-exten/jneoemaenmeibociafkflgjkjaopbggc"><img src="https://altruisto.com/img/chrome_128x128.png" alt="Chrome logo" height="48" width="48"></a>
 
 Install altruisto from <a href="https://chrome.google.com/webstore/detail/altruistocom-chrome-exten/jneoemaenmeibociafkflgjkjaopbggc">Chrome Webstore</a>
